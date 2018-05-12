@@ -45,6 +45,8 @@ You can bid up the price as much as you want,
 especially when hordes of lemmings hodl & don't sell.  
 But it doesn't change the world.
 
+
+> Austrian Maximalist comments:
 > You can't answer the question because you know you are doomed to fail!
 
 I will accept that I'm wrong the day when it will be more convenient for me to use Bitcoin (or any other cryptocurrency) than cash. This is what you should be focusing on. Pro tip: HODLing doesn't help to get the 99% of people who don't own crypto, on your side.

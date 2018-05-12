@@ -24,11 +24,6 @@ Happy Easter everyone.
 -- [1 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/980465304882073601)
 
 
-Blockchain isn't a solution to fraud. There can be no technological fixes to human nature. If people want to believe that a 20-year-old nobody named Martin Shkreli will double their money in one year, no blockchain can save them.
-Oh wait, I've just described 99% of ICO investors.
--- [9 Mar 2018](https://twitter.com/Tr0llyTr0llFace/status/972364721499320320)
-
-
 
 The crypto cartel's smartest propaganda move was to create the HODLer culture. By glorifying the act of doing nothing, they reached out to the self-entitled, lazy millionaire wannabes.
 Every Ponzi scheme relies on the hope that investors won't sell.
@@ -42,7 +37,6 @@ It was also common sense not to buy magical virtual coins that will make you ric
 -- [29 Mar 2018](https://twitter.com/Tr0llyTr0llFace/status/979304956992815105)
 
 > Austrian Maximalist comments:
->
 > Can I ask, when will you admit you were wrong?
 > $50 000 bitcoin? $100 000 bitcoin? $500 000 bitcoin?
 
@@ -109,7 +103,6 @@ Some idiots told me I couldn't sell my investment, well, WHY WOULD I? It's going
 -- [24 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/988855025270251520)
 
 > Austrian Maximalist comments:
->
 > It can't be a bubble, not everyone has bought the stone yet. NO BUBBLE
 
 
@@ -138,7 +131,6 @@ The first one who gets up & takes the bag, wins.
 -- [18 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/986599316386189312)
 
 > Austrian Maximalist comments:
->
 > Is that "small bag" getting bigger as they sit around?
 
 
@@ -148,7 +140,6 @@ Number go up = boast and self-congratulate, number go down = hide and pray.
 -- [22 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/988126314673655810)
 
 > Austrian Maximalist comments:
->
 > Please tell me what gives gold its value.
 > Industrial value is only ~$250/oz out of $1350 so it's not mostly that.
 > And don't tell me that "it's jewelry/art/it's shiny"
@@ -242,7 +233,6 @@ It's like HODLers started to buy bank cheques, thinking, "whenever someone needs
 -- [13 Mar 2018](https://twitter.com/Tr0llyTr0llFace/status/973797099337895943)
 
 > Austrian Maximalist comments:
->
 > Fiat has value because he government and the federal reserve says so.
 > Bitcoin has value because WE, THE PEOPLE say so.
 > Deal with it, we will have the last say on what we determine has value.
@@ -354,14 +344,12 @@ This is a $15 billion scam in broad daylight, and morons invested in it think th
 
 ![](i/ico-terms-eos.png)
 
-> Austrian Maximalist comments:
->
+> Austrian Maximalist (I) comments:
 > Agree that terms are outrageous BUT fully informed purchasers chose to proceed.
 > Perhaps investor discipline is in order?  These are signs of an out of equilibrium
 > market.  Time and bad outcomes will fix this issue.  
 >
-> Austrian Maximalist comments:
->
+> Austrian Maximalist (II) comments:
 >  No need for the SEC. The market will regulate itself.
 
 The issue here is that ICOs exploit the implicit trust people have in markets. This trust was created by regulations where bad guys get punished. So retail investors, when they are offered an investment, believe that they won't get screwed by default. You can't have it both ways.
@@ -406,8 +394,17 @@ Find people who believe both, and I'll sell them invisible boxes full of premium
 -- [24 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/988822101917356033)
 
 
+
+Blockchain isn't a solution to fraud. There can be no technological fixes to human nature. If people want to believe that a 20-year-old nobody named Martin Shkreli will double their money in one year, no blockchain can save them.
+Oh wait, I've just described 99% of ICO investors.
+-- [9 Mar 2018](https://twitter.com/Tr0llyTr0llFace/status/972364721499320320)
+
+
+
 Bitcoiners think the world is due for a disruption. Banks will go bankrupt, governments will lose their power. And in the midst of this chaos, amid widespread blackouts & collapsing social fabric, what will make the difference is if you own a small piece of code on the Internet.
 -- [24 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/989035883604201473)
+
+
 
 
 
@@ -419,7 +416,6 @@ In reality, Bitcoiners are the "they took our jobs" crowd in South Park.
 -- [12 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/984512716823040000)
 
 > Austrian Maximalist comments:
->
 > Actually those who will be screaming "they took our jobs",
 > post hyperbitcoinization are bankers and middlemen in financial services.
 
@@ -428,14 +424,12 @@ If we used Bitcoin as money, loans would become prohibitively expensive. No more
 -- [6 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/982232964833538053)
 
 > Austrian Maximalist comments:
->
 > You may want to dip your toes into Austrian economics authors
 > to realize how wrong that statement is.
 
 This hundred-year-old libertarian theory about how central banking unfairly distorts the economy, and how it would be much better to watch the world burn every ten years, instead of having mild recessions now and then?
 
 > Austrian Maximalist comments:
->
 > We live in a different world, what worked in the past won't work again.
 
 
@@ -450,7 +444,6 @@ Bitcoiners' understanding of what a bank does makes me think of a 5-year-old wit
 -- [12 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/984507088574480385)
 
 > Austrian Maximalist comments:
->
 > Taking out a loan, credit cards and basically everything
 > the banking industry does is why we're in this mess now.
 
@@ -522,7 +515,6 @@ You call it "volatility", I call it fraud.
 -- [11 Mar 2018](https://twitter.com/Tr0llyTr0llFace/status/972816613488693249)
 
 > Austrian Maximalist comments:
->
 > If it's a fraudulent market, then don't trade it.
 > There are thousands of markets to trade.
 
@@ -547,7 +539,6 @@ Unless HODL turns into SPEDN, Bitcoin is a joke.
 -- [8 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/982907768976834561)
 
 > Austrian Maximalist comments:
->
 > You're kidding yourself if you think people bought dotcom stock in the 90s for
 > any reason other than to get rich. The huge flow of cash into the field attracted
 > best talent & fueled innovation.
@@ -556,8 +547,7 @@ Unless HODL turns into SPEDN, Bitcoin is a joke.
 Yes unregulated and unchecked flows of money always attract the best people. I'll go get my popcorn.
 
 > Austrian Maximalist comments:
->
-> The person who bought http://pizza.com and held it sold
+> The person who bought pizza.com and held it sold
 > it for $2 million dollars with no website or product
 > just the domain name.... #HODL
 
@@ -568,7 +558,6 @@ It's difficult to keep up with all the innovations in the Bitcoin space. Bitcoin
 -- [5 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/982102056910516226)
 
 > Austrian Maximalist comments:
->
 > Every new tech brings new problems.
 > By your logic, we should just close down the internet,
 > because it wasn't perfect from day one....

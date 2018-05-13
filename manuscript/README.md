@@ -251,7 +251,7 @@ If you think books about the history of finance, financial regulation, and banki
 
 
 
-## Crypto Shill's Big Lies
+## Crypto Shills' Big Lies
 
 I don't know what a side chain is. I don't know how exactly the Lightning Network is supposed to work.
 But I've met with a lot of people who launch ICOs and run crypto PR. It's a who's who of swindlers and crooks. They know what they're doing. You don't. You're the little fish.
@@ -314,7 +314,7 @@ A journalist hodling crypto cannot be trusted to write unbiaised articles on cry
 - No. I don't want to end up in jail.
 - Come on, so many people are doing it, they won't be able to lock us all up!
 
-actual conversation I just had
+(*) actual conversation I just had
 -- [21 Mar 2018](https://twitter.com/Tr0llyTr0llFace/status/976433050744705024)
 
 
@@ -341,10 +341,10 @@ to Bitcoin is a criminal lie. Bitcoin was an accident. ICOs are intentional scam
 
 Current EOS token market cap: $15 billion.
 The EOS token is a nothing. Literally nothing. See the excerpt from its purchasing agreement below.
-This is a $15 billion scam in broad daylight, and morons invested in it think they're geniuses because the fake price of scamcoins is up.
+This is a $15 billion scam in broad daylight, and morons invested in it think they're geniuses because the fake price of scamcoins is up.  ![](i/ico-terms-eos.png)
 -- [2 May 2018](https://twitter.com/Tr0llyTr0llFace/status/991930017058836480)
 
-![](i/ico-terms-eos.png)
+
 
 > Austrian Maximalist (I) comments:
 > Agree that terms are outrageous BUT fully informed purchasers chose to proceed.
@@ -365,26 +365,27 @@ it's back to the Middle Ages.
 
 
 ICO Terms & Conditions are always a  fun read, unless you intend to "invest" in the ICO. Then it's a pile of rotten garbage that screams "run away, you moron!"
-Here's a fun one: "the coins you purchase are nothing, and might never become anything at any time in the future."
+Here's a fun one: "the coins you purchase are nothing, and might never become anything at any time in the future."     ![](i/ico-terms-eocoins-i.png)
 -- [8 May 2018](https://twitter.com/Tr0llyTr0llFace/status/993887598140633088)
 
-![](i/ico-terms-eocoins-i.png)
 
-ICO Terms & Conditions clownfest: the investor guarantees that he's not a resident of a country that might have laws intended to protect him, and certifies that the ICO crooks are free to stick it to him/her without any legal repercussions.
+
+ICO Terms & Conditions clownfest: the investor guarantees that he's not a resident of a country that might have laws intended to protect him, and certifies that the ICO crooks are free to stick it to him/her without any legal repercussions.   ![](i/ico-terms-eocoins-ii.png)
 -- [8 May 2018](https://twitter.com/Tr0llyTr0llFace/status/993931810546618368)
 
-![](i/ico-terms-eocoins-ii.png)
+
 
 ICO Terms & Conditions clownfest: the investor certifies that he's an expert in blockchain technology, cryptocurrency analysis, & the "intricacies" of the crypto ecosystem.
-Notwithstanding the fact that not a single person on Earth qualifies, ICO crooks are off the hook... right?
+Notwithstanding the fact that not a single person on Earth qualifies,
+ICO crooks are off the hook... right?   ![](i/ico-terms-eocoins-iii.png)
 -- [8 May 2018](https://twitter.com/Tr0llyTr0llFace/status/993932769150500865)
 
-![](i/ico-terms-eocoins-iii.png)
 
 
 
 
-## Creative Disruption - Austrian School of Economics - Free Market Paradise
+
+## Creative Disruption - Austrian School of Economics - Free Market Utopia
 
 Theory:
 "Blockchain tech is great, it will eliminate fraud and corruption."
@@ -410,7 +411,7 @@ Bitcoiners think the world is due for a disruption. Banks will go bankrupt, gove
 
 
 
-## Bitcoin Gold Standard - Austrian School of Economics - Free Market Paradise
+## Bitcoin Gold Standard - Austrian School of Economics - Free Market Utopia
 
 
 Bitcoiners try so hard to look like technological visionaries. They keep quoting the Austrian school of economics, something that's less of an economic theory than it's a few angry old men yelling at clouds.

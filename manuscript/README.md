@@ -8,9 +8,10 @@ title: Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLer
 
 People will believe anything, as long as it gives them an easy answer to the most important question in the universe: "how can I become rich quickly and without working?"
 "International reply coupon exchange" sounded just as cool and mysterious as "censorship-resistant money".
+
+![](i/ponzi-business-secret.png)  
 -- [1 May 2018](https://twitter.com/Tr0llyTr0llFace/status/991330762178924544)
 
-![](i/ponzi-business-secret.png)
 
 
 Investment opportunity: you can buy an inscription on an online registry that gives you absolutely no rights and no income. Also investors must pay $3B per year or the registry ceases to exist. BUT there's a limited number of registry entries so it must be worth a lot. #Bitcoin
@@ -341,7 +342,9 @@ to Bitcoin is a criminal lie. Bitcoin was an accident. ICOs are intentional scam
 
 Current EOS token market cap: $15 billion.
 The EOS token is a nothing. Literally nothing. See the excerpt from its purchasing agreement below.
-This is a $15 billion scam in broad daylight, and morons invested in it think they're geniuses because the fake price of scamcoins is up.  ![](i/ico-terms-eos.png)
+This is a $15 billion scam in broad daylight, and morons invested in it think they're geniuses because the fake price of scamcoins is up.  
+
+![](i/ico-terms-eos.png)   
 -- [2 May 2018](https://twitter.com/Tr0llyTr0llFace/status/991930017058836480)
 
 
@@ -365,19 +368,25 @@ it's back to the Middle Ages.
 
 
 ICO Terms & Conditions are always a  fun read, unless you intend to "invest" in the ICO. Then it's a pile of rotten garbage that screams "run away, you moron!"
-Here's a fun one: "the coins you purchase are nothing, and might never become anything at any time in the future."     ![](i/ico-terms-eocoins-i.png)
+Here's a fun one: "the coins you purchase are nothing, and might never become anything at any time in the future."     
+
+![](i/ico-terms-eocoins-i.png)    
 -- [8 May 2018](https://twitter.com/Tr0llyTr0llFace/status/993887598140633088)
 
 
 
-ICO Terms & Conditions clownfest: the investor guarantees that he's not a resident of a country that might have laws intended to protect him, and certifies that the ICO crooks are free to stick it to him/her without any legal repercussions.   ![](i/ico-terms-eocoins-ii.png)
+ICO Terms & Conditions clownfest: the investor guarantees that he's not a resident of a country that might have laws intended to protect him, and certifies that the ICO crooks are free to stick it to him/her without any legal repercussions.   
+
+![](i/ico-terms-eocoins-ii.png)   
 -- [8 May 2018](https://twitter.com/Tr0llyTr0llFace/status/993931810546618368)
 
 
 
 ICO Terms & Conditions clownfest: the investor certifies that he's an expert in blockchain technology, cryptocurrency analysis, & the "intricacies" of the crypto ecosystem.
 Notwithstanding the fact that not a single person on Earth qualifies,
-ICO crooks are off the hook... right?   ![](i/ico-terms-eocoins-iii.png)
+ICO crooks are off the hook... right?  
+
+![](i/ico-terms-eocoins-iii.png)
 -- [8 May 2018](https://twitter.com/Tr0llyTr0llFace/status/993932769150500865)
 
 
@@ -605,8 +614,6 @@ DO YOU KNOW SQL EXISTS?
 
 
 ## (Crypto Currency) Applications
-
-### Steem
 
 Anyone who can explain how Steemit is not a Ponzi scheme gets 1,000 Trolly coins.
 Everyone who comments or upvotes the explanation gets some Trolly coins, too.

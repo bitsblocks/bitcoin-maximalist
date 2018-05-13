@@ -1,4 +1,9 @@
 
+See the live version @ [`bitsblocks.github.io/bitcoin-maximalist`](http://bitsblocks.github.io/bitcoin-maximalist)
+
+---
+
+
 WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT
 
 

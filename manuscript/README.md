@@ -91,7 +91,7 @@ Corollary: 95% of ICO ideas are shit. But you already knew that, and only bought
 
 
 
-## (Just) Believe! HODL! HODL! HODL! To the Moon!
+## Believe! HODL! HODL! HODL! To the Moon!
 
 In the mind of a Bitcoiner, humanity is divided into two camps: those who have bought Bitcoin, a.k.a. the illuminated, and those who have not, and are doomed to live in a state of perpetual jealousy and hate towards the illuminated for their superior intelligence and foresight.
 -- [6 Apr 2018](https://twitter.com/Tr0llyTr0llFace/status/982498153504133120)

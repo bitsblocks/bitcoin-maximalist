@@ -20,11 +20,11 @@ That's why it's impossible to have a rational conversation with a Bitcoiner as h
 
 > Bitcoiner comments:
 >
->  Are you saying all those legendary super-rich invest into a pyramid scheme?
+>  Are you saying all those legendary super-rich invest in a pyramid scheme?
 >
 > Bitcoin "Number Go Up"er comments:
 >
-> Who is celebrating missing out
+>  Are you celebrating missing out
 > on bitcoin going
 > from whatever price it was when you first heard about it ($11 for me )
 > to almost $20 000 today?

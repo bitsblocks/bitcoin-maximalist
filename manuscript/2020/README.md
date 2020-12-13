@@ -36,7 +36,7 @@ That's why it's impossible to have a rational conversation with a Bitcoiner as h
 
 
 
-> SEC Investor Education:
+SEC Investor Education:
 > - Don't understand an investment?
 > - Don't invest in it.
 
@@ -71,8 +71,8 @@ I'm not cherry picking, this is a statistically representative sample.
 --[Nov 29](https://twitter.com/Tr0llyTr0llFace/status/1333128241461284864)
 
 
-> Crypto News Flash:
->
+Crypto News Flash:
+
 > NEW: Micro Strategy
 > [Enterprise Analytics Firm Enabling "Intelligence Everywhere"]
 > is raising $400 million to buy more bitcoin.
@@ -82,8 +82,8 @@ to invest in productive assets and growth and research.
 Just fire all your employees and buy Ponzi beans with the savings.
 It will work out somehow.
 
-> Austrian Maximalist comments:
->
+Austrian Maximalist comments:
+
 > No money that flows into bitcoin is good for you. LOL.
 > Good money drives out bad - this is how it happens.
 >
@@ -96,9 +96,8 @@ It will work out somehow.
 
 
 
+Austrian Maximalist asks:
 
-> Austrian Maximalist asks:
->
 > I took out a $46,250 loan today at 7.9% and bought 2.55 bitcoin. By 2026 I will have
 >  to pay back $57,806.85.
 >

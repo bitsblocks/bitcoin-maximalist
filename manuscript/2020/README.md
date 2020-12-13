@@ -183,26 +183,26 @@ Crypto is the Hotel California of financial assets.
 
 §
 
-You've got to admire the regularity of these Tether prints.
-Who's holding them? Why would anyone buy Tethers in lieu of holding fiat? Why would people rush into a stablecoin in the midst of a supposed raging bull market for crypto? Why nobody in the community is talking about it?
+You've got to admire the regularity of these Tether ($USDT) prints.
+Who's holding them? Why would anyone buy Tethers (USDT) in lieu of holding USD? Why would people rush into a stablecoin in the midst of a supposed raging bull market for crypto? Why nobody in the community is talking about it?
 
-There are zero advantages of giving away legit cash in exchange of USDTs. Tether is unsupervised, unregulated, there is no legal recourse in case anything goes wrong, even their Term of Service denies any and all liability. They’ve even deleted the bit where they used to pretend it's backed.
+There are zero advantages of giving away legit cash in exchange of USDTs. Tether is unsupervised, unregulated, there is no legal recourse in case anything goes wrong, even their Term of Service denies any and all liability. They've even deleted the bit where they used to pretend it's backed.
 
 > Fact Checker Comments:
 >
-> You can buy few crypto coins with USD even on binance
+> You can buy few crypto coins with USD even on Binance
 > [the world's largest exchange].
 > Tether (USDT) is still the major on-ramp between USD
 > and less liquid crypto coins.
 >
 > Fact Checker II Comments:
 >
-> Tax liabilities. When you cash out to USD, you pay taxes.
+> Tax liabilities. When you cash out USDT to USD, you pay taxes.
 >
 >
 > Austrian Maximalist Comments:
 >
-> If everyone had these questions with the dollar & the central bank.
+> If everyone had these questions with the USD & the central bank.
 -- [Nov 21](https://twitter.com/Tr0llyTr0llFace/status/1330047116174102532)
 
 §
@@ -240,22 +240,22 @@ Is this real life?
 >
 > Tether $USDT Growth (Money Printing):
 >
-> 20/02/2019:  4 billion
-> 11/03/2020:  5 billion (20 days)
-> 26/03/2020:  6 billion (15 days)
-> 18/04/2020:  7 billion (23 days)
-> 6/05/2020:   8 billion (18 days)
-> 25/05/2020:  9 billion (19 days)
-> 21/07/2020: 10 billion (27 days)
-> 1/08/2020:  11 billion (11 days)
-> 13/08/2020: 12 billion (12 days)
-> 26/08/2020: 13 billion (13 days)
-> 4/09/2020:  14 billion (8 days)
-> 16/09/2020: 15 billion (12 days)
-> 22/10/2020: 16 billion (36 days)
-> 5/11/2020:  17 billion (14 days)
-> 17/11/2020: 18 billion (13 days)
-> 26/11/2020: 19 billion (9 days)
+> - 20/02/2019:  4 billion
+> - 11/03/2020:  5 billion (20 days)
+> - 26/03/2020:  6 billion (15 days)
+> - 18/04/2020:  7 billion (23 days)
+> - 6/05/2020:   8 billion (18 days)
+> - 25/05/2020:  9 billion (19 days)
+> - 21/07/2020: 10 billion (27 days)
+> - 1/08/2020:  11 billion (11 days)
+> - 13/08/2020: 12 billion (12 days)
+> - 26/08/2020: 13 billion (13 days)
+> - 4/09/2020:  14 billion (8 days)
+> - 16/09/2020: 15 billion (12 days)
+> - 22/10/2020: 16 billion (36 days)
+> - 5/11/2020:  17 billion (14 days)
+> - 17/11/2020: 18 billion (13 days)
+> - 26/11/2020: 19 billion (9 days)
 >
 > Fact Checker comments:
 >

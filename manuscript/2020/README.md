@@ -5,7 +5,7 @@
 - [ ] Add A New 2020 Edition?
 
 
-## Best of Bitcoin Maximalist in 2020  - Inside the Gigantic ("Number Go Up! $20_000!) Crypto Ponzi and Proof-of-Waste ("Burn, baby Burn! 70+ TWh - 35+ Mt CO2/Year!") Environment Disaster
+## Best of Bitcoin Maximalist in 2020  - Inside the Gigantic ("Number Go Up!) Crypto Ponzi and Proof-of-Waste ("Burn, baby Burn!") Environment Disaster - $20_000! 70+ TWh - 35+ Mt CO2/Year!
 
 
 

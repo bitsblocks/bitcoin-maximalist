@@ -14,6 +14,7 @@
 > -- Investor in Mr Charles Ponzi's trust
 --[Dec 12](https://twitter.com/Tr0llyTr0llFace/status/1337766856099328006)
 
+ §
 
 Like every single Ponzi scheme ever, Bitcoin sucked in those who only understand number go up.
 That's why it's impossible to have a rational conversation with a Bitcoiner as he'll end it after twelve seconds, out of arguments, with "well it's up 7,900% since 2010 so you're wrong".
@@ -34,16 +35,16 @@ That's why it's impossible to have a rational conversation with a Bitcoiner as h
 >  Central banks and the USDs, EURs, GBPs of the world are the real ponzis.
 --[Dec 8](https://twitter.com/Tr0llyTr0llFace/status/1336267487571300357)
 
+ §
 
-
-SEC Investor Education:
+> SEC Investor Education:
 > - Don't understand an investment?
 > - Don't invest in it.
 
 Yes, but what if there's only 21 million of it?
 --[Sep 9](https://twitter.com/Tr0llyTr0llFace/status/1303766923109380097)
 
-
+ §
 
 Bitcoin user guide:
 1. Buy Bitcoin.
@@ -59,6 +60,7 @@ Bitcoin user guide:
 >  8. See super-rich legendary investors like Tudor Jones, Stanley Druckenmiller, Michael Saylor, etc. who wouldn't fall for mere pyramid schemes, buy and hold Bitcoin.
 --[Nov 23](https://twitter.com/Tr0llyTr0llFace/status/1330950190556188676)
 
+ § 
 
 If you want to invest in Bitcoin, you'll become one of these guys.
 I'm not cherry picking, this is a statistically representative sample.
@@ -70,7 +72,8 @@ I'm not cherry picking, this is a statistically representative sample.
 > leads me to prefer bitcoin for saving.
 --[Nov 29](https://twitter.com/Tr0llyTr0llFace/status/1333128241461284864)
 
-
+ §
+ 
 Crypto News Flash:
 
 > NEW: Micro Strategy
@@ -94,10 +97,10 @@ Austrian Maximalist comments:
 >  Warren Buffett.
 --[Dec 7](https://twitter.com/Tr0llyTr0llFace/status/1336066695446884359)
 
+ §
 
-
-Austrian Maximalist asks:
-
+> Austrian Maximalist asks:
+>
 > I took out a $46,250 loan today at 7.9% and bought 2.55 bitcoin. By 2026 I will have
 >  to pay back $57,806.85.
 >
@@ -107,8 +110,6 @@ Austrian Maximalist asks:
 
 A: Never borrow to invest or gamble.
 -- [Dec 12](https://twitter.com/Tr0llyTr0llFace/status/1337682085260132352)
-
-
 
 
 
@@ -139,6 +140,7 @@ Banks are printing money!
 >
 --[Nov 17](https://twitter.com/Tr0llyTr0llFace/status/1328763171247714305)
 
+§
 
 Over last week:
 - $BTC: +$1,000
@@ -147,6 +149,7 @@ Over last week:
 - Bitcoin shills: Hear nothing, say nothing, see nothing.
 --[Nov 5](https://twitter.com/Tr0llyTr0llFace/status/1324284133468786688)
 
+§
 
 Bitcoiners: Oh my god (OMG)
 my bags are going up it must mean that the
@@ -156,24 +159,29 @@ Bitcoin:
 > 150,000,000 $USDT (149,892,192 USD) minted at Tether Treasury
 --[Nov 12](https://twitter.com/Tr0llyTr0llFace/status/1326964433957040128)
 
+§
 
 Still no fear of missing out (FOMO)? Need more Tether ($USDT) coins!!!
 - [Nov 17](https://twitter.com/Tr0llyTr0llFace/status/1328745263595393025)
 
+§
 
 > 120,000,000 $USDT (120,141,544 USD) minted at Tether Treasury
 -- [Nov 20](https://twitter.com/Tr0llyTr0llFace/status/1329742524437716992)
 
+§
+
 > 200,000,000 $USDT (199,991,507 USD) minted at Tether Treasury
 -- [Nov 20]()https://twitter.com/Tr0llyTr0llFace/status/1329727480182272006
 
-
+§
 
 Since Tether started the exponential printing of its coin 8 months ago, USDT has lost 80% of its value.
 The trick was to make people believe that 1 USDT = 1 USD. Which, because nobody can sell their USDTs, wasn't that hard.
 Crypto is the Hotel California of financial assets.
 --  [Nov 20](https://twitter.com/Tr0llyTr0llFace/status/1329745341760106496)
 
+§
 
 You've got to admire the regularity of these Tether prints.
 Who's holding them? Why would anyone buy Tethers in lieu of holding fiat? Why would people rush into a stablecoin in the midst of a supposed raging bull market for crypto? Why nobody in the community is talking about it?
@@ -197,6 +205,7 @@ There are zero advantages of giving away legit cash in exchange of USDTs. Tether
 > If everyone had these questions with the dollar & the central bank.
 -- [Nov 21](https://twitter.com/Tr0llyTr0llFace/status/1330047116174102532)
 
+§
 
 So far this year,
 US monetary base is up 42%.
@@ -206,9 +215,9 @@ The Fed stopped when they got asset prices back to where they were pre-COVID, be
 Tether didn't stop, because that's its job: pump until fear of missing out (FOMO) then cash out.
 -- [Nov 23](https://twitter.com/Tr0llyTr0llFace/status/1330872747518472196)
 
+§
 
 We need more Tethers to be printed as soon as possible.
--- [Nov 26](https://twitter.com/Tr0llyTr0llFace/status/1331871308859265025)
 
 > Fact Checker comments:
 >
@@ -216,11 +225,14 @@ We need more Tethers to be printed as soon as possible.
 > which raises more questions than answers) on Tethers website
 > is from 2018, for the total of $2B.
 > There is a slight deficit of $17B.
+-- [Nov 26](https://twitter.com/Tr0llyTr0llFace/status/1331871308859265025)
 
+§
 
 Tether on brink of second bailout for Bitcoin.
 -- [Nov 27](https://twitter.com/Tr0llyTr0llFace/status/1332405609065553920)
 
+§
 
 Is this real life?
 
@@ -255,6 +267,7 @@ Is this real life?
 > money everyone can rely on.
 -- [Nov 30](https://twitter.com/Tr0llyTr0llFace/status/1333482167943524355)
 
+§
 
 
 Bagholders have been brainwashed to believe that bitcoins can only rise in value because its supply is programmed to decline. They've heard of the law of "supply & demand", but never managed to explain the "demand" part, so they just assume it's a given.
@@ -272,11 +285,12 @@ This is why Bitcoiners are physically unable to question Tether printing billion
 > and both contribute to bitcoin's value.
 -- [Nov 25](https://twitter.com/Tr0llyTr0llFace/status/1331717262781378561)
 
-
+§
 
 > Just $200,000,000 USDT (201,747,631 USD) minted at Tether Treasury
 -- [Dec 1](https://twitter.com/Tr0llyTr0llFace/status/1333768270609002499)
 
+§
 
 Bitcoin seems to have reached a permanently high plateau of one billion new tethers ($USDT) [printed] every two weeks.
 
@@ -287,7 +301,7 @@ Bitcoin seems to have reached a permanently high plateau of one billion new teth
 > What a specific moment to start going parabolic, right?
 -- [Dec 1](https://twitter.com/Tr0llyTr0llFace/status/1333835035758235655)
 
-
+§
 
 If stablecoin printers stop printing new coins out of thin air because of US regulators' scrutiny, I'll be forced to revise my Bitcoin 2021 price target from $100,000 down to $57.
 
@@ -298,6 +312,7 @@ Last print was a pathetic $35 Million, 3 days ago:
 > Total circulating USDC (Circle) Supply: $3,072,618,726
 -- [Dec 10](https://twitter.com/Tr0llyTr0llFace/status/1336976823385804800)
 
+§
 
 Bitcoin suddenly became a little more antifragile.
 > Crypto US$ Money Printer: Just printed $149,786,927 USDT!
@@ -305,10 +320,6 @@ Bitcoin suddenly became a little more antifragile.
 > Total circulating USDT (Tether) supply: $20,333,323,926
 
 -- [Dec 12](https://twitter.com/Tr0llyTr0llFace/status/1337707908746907650)
-
-
-
-
 
 
 
